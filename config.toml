@@ -1,6 +1,6 @@
 baseURL = "https://cyber-protect.io/"
 languageCode = "en-us"
-title = "Protection."
+title = "Cyber-Protect.io"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
@@ -10,24 +10,24 @@ theme = "hugo-hero-theme"
     min = "0.92.0"
     
 [params]
-  google_analytics_id=""
+  google_analytics_id="G-RHGFS34B8B"
 
   [params.logo]
-    mobile = "images/logo-mobile.svg"
+    mobile = "images/cp-logo-mobile.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/logo.svg"
+    desktop = "images/cp-logo.svg"
     desktop_height = "29px"
     desktop_width = "217px"
-    alt = "Hugo Hero"
+    alt = "Cyber Protect"
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_description = "Cyber-Protect.io mission statement."
+    meta_og_title = "Cyber-Protect.io"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_url = "https://cyber-protect.io"
+    meta_og_image = ""
+    meta_og_description = "Cyber-Protect.io mission statement."
     meta_twitter_card = "summary"
     meta_twitter_site = "@zerostaticio"
     meta_twitter_creator = "@zerostaticio"
@@ -38,24 +38,24 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
+    name = "Projects"
     url = "/work/"
     weight = 2
 
 [[menu.main]]
-    name = "About"
+    name = "Team"
     url = "/about/"
     weight = 3
 
 [[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 3
+    name = "Partner"
+    url = "/"
+    weight = 4
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
