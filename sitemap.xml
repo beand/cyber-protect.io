@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cyber-protect.io/services/accounting/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url><url>
     <loc>https://cyber-protect.io/work/fall-plaza/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://cyber-protect.io/work/modern-hospital/</loc>
+    <loc>https://cyber-protect.io/services/accounting/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>https://cyber-protect.io/services/tax-filing/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>https://cyber-protect.io/work/modern-hospital/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>https://cyber-protect.io/work/cargo-terminal/</loc>
@@ -32,13 +32,13 @@
     <loc>https://cyber-protect.io/services/business-sales/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url><url>
-    <loc>https://cyber-protect.io/services/superannuation/</loc>
-    <lastmod>2018-11-28T15:14:54+10:00</lastmod>
-  </url><url>
-    <loc>https://cyber-protect.io/services/business-advisory/</loc>
-    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
-  </url><url>
     <loc>https://cyber-protect.io/contact/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+  </url><url>
+    <loc>https://cyber-protect.io/datenschutz/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+  </url><url>
+    <loc>https://cyber-protect.io/impressum/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
     <loc>https://cyber-protect.io/</loc>
